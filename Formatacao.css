@@ -1,0 +1,63 @@
+#menu ul {list-style: none;
+    position:absolute;
+     top: 180px;
+      left: 390px;}
+#menu li {display: inline-block;
+      padding: 10px;
+       margin: 3px;
+        font-size: 25px;
+            font-family: "Monotype Corsiva";}
+#menu{width: 1335px;
+      height:70px;}
+/**body{background-image: url("fundo.png");
+  background-attachment: fixed;
+    background-size: 100%;
+      background-color: #ffffff;}*/
+h2{color: #066598;
+  font-family: "Caliber";
+    text-align: center}
+#conteduohome{font-size   : 25px ;
+  text-align: justify;
+    float: left;
+      padding: 250px;
+        margin: -200px 0px 0px 0px;}
+.img_div{float: left;
+  padding: 0x;
+    margin: -300px 0px 0px 0px;}
+.img_div_2{float: left;
+  padding: 250px;
+    margin: -450px 0px 0px 0px;}
+.img_div_3{float: left;
+padding: 250px;
+  margin: -450px 0px 0px 0px;}
+.img_div_4{float: left;
+  padding: 250px;
+    margin: -450px 0px 0px 0px;}
+.inserir_dados{font-family: "Arial";
+  font-size: 20px;
+    text-align: left;
+                                }
+.painel {background-color: #066666;}
+div a {text-decoration: none;
+  color: white;
+    font-size: 20px;
+      padding: 15px;
+        display:inline-block;,
+          text-align: center;}
+ul{display: inline;
+  margin: 0px;
+    padding: 0%;}
+ul li {display: inline-block;}
+ul li:hover {background: #555;}
+ul li:hover ul {display: block; }
+ul li ul {position: absolute;
+  width: 300px;
+    display: none;}
+ul li ul li {background: #555;
+  display: block;}
+ul li ul li a {display:block !important;}
+ul li ul li:hover {background: #666;}
+.ATIVOS_F{text-align: center;
+  color: white;
+    background: #066666;
+      font-size: 20px;}
